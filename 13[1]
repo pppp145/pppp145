@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head xmlns:og="http://ogp.me/ns#">
+<meta charset="utf-8" />
+<meta content='width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, target-densityDpi=device-dpi' name='viewport' />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Ego คือศัตรู - บทความสั้นๆ ได้ใจความ - Minimore</title>
+
+<link rel="icon" type="image/png" href="//c.min.ms/images/minimorefav.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="//c.min.ms/images/appicon.png" />
+<link rel="stylesheet" href="//c.min.ms/stylesheets-v2/canvas/bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="//c.min.ms/stylesheets-v2/canvas/font-icons.css" type="text/css" />
+<link rel="stylesheet" href="//c.min.ms/stylesheets-v2/canvas/animate.css" type="text/css" />
+<link rel="stylesheet" href="//c.min.ms/stylesheets-v2/canvas/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="//c.min.ms/libs/select2/select2.min.css" type="text/css" />
+<link rel="stylesheet" href="/stylesheets-v2/jquery-datepicker-bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="/stylesheets-v2/style_canvas_mnm.css?4" type="text/css" />
+<link rel="stylesheet" href="/stylesheets-v2/custom_topbar-v4.css?4" type="text/css" />
+<link rel="stylesheet" href="/stylesheets-v2/custom_mnm-v4-ne.css?7" type="text/css" />
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Kanit:400,500,300&subset=thai,latin" rel='stylesheet' type='text/css'>
+<script type="text/javascript"> if (!window.console) console = {log: function() {}}; </script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery-ui-1.12.1.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/mmapi.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/mustache.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/bootstrap.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.autosize.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.form.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.webkitresize.edited.js"></script>
+<script type="text/javascript" src="/libs/jquery.draggable.bg.js?4"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.unveil.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.timeago.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jquery.stellar.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/jRespond.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/owl.carousel.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/moment.min.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/chardinjs.js"></script>
+<script type="text/javascript" src="//c.min.ms/libs/select2/select2.min.js?2"></script>
+
+
+<script type="text/javascript" src="/javascripts/script-v4.js?8"></script>
+<script type="text/javascript" src="/javascripts/adframe.js"></script>
+<meta name="author" content="Jack" />
+<meta property="fb:app_id" content="164221187085346" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ego คือศัตรู - บทความสั้นๆ ได้ใจความ" />
+<meta property="og:site_name" content="Minimore" />
+<meta property="og:image" content="https://c.min.ms/t/og/member/b/7/7788/aa864e23.jpg" />
+<meta property="og:description" content="Ego คือความอยากได้อยากดังโดยที่ไม่ต้องลงมือทำ ความสำเร็จจะทำให้คนอื่นๆ ยกย่องและยอมรับในตัวเรา แต่หลายๆ คนกลับอยากได้มันมาโดยที่ยังทำไม่สำเร็จ ความทะเยอทะยานต่างจากEgo เพราะมันอยู่บนพื้นฐานของความสำเร็จ  คนที่มี Ego มักจะคิดว่าตัวเองถูกเสมอ มั่นใจและเอาความคิดตัวเองเป็นใหญ่ ดื้อไม่ฟังใคร หรือฟังแต่ไ..." />
+<meta property="og:url" content="http://minimore.com/b/PE1Ra/13" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@Minimoreweb" />
+<meta property="twitter:creator" content="@Minimoreweb" />
+
+<script type="text/javascript">
+var adr_url = location.protocol+"//minimore.com/apis/";
+
+function fb_login(){
+	//
+	var login_return = "";
+	var subscribe_book = "";
+	$('.waiting-process').show();
+	
+	if(navigator.userAgent.match('CriOS')){
+		window.location = "https://www.facebook.com/dialog/oauth?client_id=164221187085346&redirect_uri=https://minimore.com/fbLogin";
+	}
+	else{		
+		if(typeof(FB) == 'undefined'){
+			alert('Cannot login: Failed connect to Facebook');
+			return;
+		}
+			
+		FB.login(function(response) {
+			if (response.authResponse) {
+				console.log('Welcome!  Fetching your information.... ');
+				access_token = response.authResponse.accessToken; //get access token
+				fbuser_id = response.authResponse.userID; //get FB UID
+				FB.api('/me', function(response) {
+					user_email = response.email; //get user email
+					//console.log(response.username);
+					//console.log(response.email);
+					//console.log(response.name);
+					if(typeof(response.username) == 'undefined'){
+						username = "fb"+fbuser_id;
+					} 
+					else {
+						username = response.username;
+					}
+					fbname =  response.name;
+					$.ajax({
+						type: "POST",
+						url: adr_url+'mobileCheckFBUser',
+						data:{
+							fbaccesstoken : access_token,
+							fbuserid : fbuser_id,
+							fbusername : username,
+							fbemail : user_email,
+							fbname : fbname
+						}
+					}).done(function(msg){
+						var result = JSON.parse(msg);
+						if(result['error'] === 0){
+							var data = {book_id: subscribe_book, action: 'subscribe'};
+							MM.callApi("subscribe", data,function(msg){
+								$('.waiting-process').hide();
+								if (login_return){
+									if(login_return.search("store.minimore")){
+										//SAVE LOG IN STORE
+										$.ajax({
+											type: "POST",
+											url: adr_url+'private/setLogLoginStore/',
+											data:{
+												pass : "savelogminimore"
+											}
+										}).done(function(msg){
+											window.location.href = login_return;
+										});
+									} 
+									else {
+										window.location.href = login_return;
+									}
+								} 
+								else {
+									window.location.reload();
+								}
+							});
+						}
+						else if(result['error'] === 1){
+							alert('Cannot login: Error[1]');
+						}
+						else{
+							alert('Cannot login: Error[unknown]');
+						}
+					});
+				});
+			} 
+			else{
+				//user hit cancel button
+				alert('Cannot login: cancelled or did not fully authorize');
+			}
+		}, 
+		{
+			scope: 'email' //scope: 'publish_stream,email'
+		});
+	}
+}
+
+</script>
+
+<script type='text/javascript'>
+window.Adomik = window.Adomik || {};
+Adomik.randomAdGroup = function() {
+var rand = Math.random();
+switch (false) {
+case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+case !(rand < 0.10): return "ad_bc";
+default: return "ad_opt";
+}
+};
+</script>
+<script type="application/javascript" src="//anymind360.com/js/1839/ats.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9598540753956928" crossorigin="anonymous"></script>
+</head>
+<body class="no-transition stretched">
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '164221187085346',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v5.0'
+    });
+  };
+</script>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+<script>
+$(document).ready(function(){				
+	$('html,body').bind('click',function(e){
+		if($('#top-bar .top-links .trigger-btn').hasClass('active')){	
+			if ($(e.target).parents('a').hasClass('trigger-btn') || $(e.target).hasClass('trigger-btn')){
+				//do nothing
+			}
+			else if($(e.target).parents('div').hasClass('topbar-user-content')){
+				//do nothing
+			}
+			else{
+				$('#top-bar .topbar-user-content').hide();
+				$('#top-bar .top-links .trigger-btn').removeClass('active');
+			}
+		}
+	});	
+	
+	$('#top-bar .top-links .trigger-btn').bind('click',function(e){
+		var target = $(this).attr('data-open');
+		
+		if($(this).hasClass('active')){		
+			$('#top-bar .topbar-user-content').hide();
+			$(this).removeClass('active');
+		}
+		else{
+			$('#top-bar .topbar-user-content').hide();
+			$('#top-bar .top-links .trigger-btn').removeClass('active');
+			
+			$('#top-bar').find('#'+target).fadeIn(200);
+			$(this).addClass('active');
+		}
+		
+		if($(this).attr('data-update') != null){
+			var btn = $(this);
+			var id = $(this).attr('data-update');
+			var data = { 
+				call_function: 'updateNotificationRead',
+				last_noti_id : id 
+			};
+			MM.callApi("notification", data, function(result){
+				if(!result['error']){
+					btn.removeClass('hasalert');
+					btn.removeAttr('data-update');
+				}
+			});
+		}
+	});
+	
+	const isAcceptPolicy = getCookie('acceptPolicy')
+	if (isAcceptPolicy === 'yes') {
+		$('#privacy-bar').hide();
+	}
+});
+
+function getCookie(key) {
+	var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+	return keyValue ? keyValue[2] : null;
+}
+
+function privacyAccept() {
+	document.cookie = "acceptPolicy=yes; path=/; SameSite=Strict";
+	$('#privacy-bar').hide();
+}
+
+</script>
+<style>
+#privacy-bar {
+  background: #fff;
+  z-index: 16000;
+  position: relative;
+  border-bottom: 1px solid #eee;
+  height: 45px;
+  line-height: 44px;
+  font-size: 13px;
+}
+#privacy-bar.fixed {
+  position: fixed;
+  z-index: 16000;
+  width: 100%;
+  top: 45px;
+}
+@media(max-width:992px) {
+	#privacy-bar {
+	  height: 90px;
+	}
+}
+</style>
+<div id="top-bar" class="fixed">
+<div class="clearfix">
+<div class="col_half fleft nobottommargin">
+<div class="top-links">
+<ul class="topbar-menu-off">
+<li class="logo "><a href="https://minimore.com"><i class="mm-logo"></i></a></li>
+<div class="topbar-menu-trigger fleft">
+<li class="active"><a href="https://minimore.com/m">Makers</a></li>
+<li><a href="https://store.minimore.com">Store</a></li>
+</div>
+</ul>
+</div>
+</div>
+<div class="col_half fright col_last nobottommargin">
+<div class="top-links">
+<ul>
+<li><a class="imargin" href="https://minimore.com/login"><i class="icon-signin"></i><em>Log in</em></a></li>
+</ul>
+</div>
+</div>
+<div class="topbar-user-content" id="topbar-notification-content">
+<ul class="notificationlist">
+<li>
+<a class="clearfix" href="#">
+<div class="col-xs-12 nopadding">
+<div>You don't have any notification yet.</div>
+</div>
+</a>
+</li>
+<li><a class="clearfix center" href="/account/notifications"><b>See All</b></a></li>
+</ul>
+</div>
+<div class="topbar-user-content" id="topbar-usermenu-content">
+<ul>
+<li class="info clearfix">
+<a href="/author/">
+<div class="image"><img src="" /></div>
+<div class="title"><span></span></div>
+</a>
+</li>
+<li><a href="https://minimore.com/account/settings#setting-wallet" class="clearfix"><i class="icon-line2-wallet"></i>My Wallet <span class="wallet"><i class="mmcoin small"></i>null</span></a></li>
+<li><a href="/account/library"><i class="icon-book2"></i>Library</a></li>
+<li><a href="/account/settings"><i class="icon-line2-settings"></i>Settings</a></li>
+<li><a href="/logout"><i class="icon-line2-logout"></i>Logout</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="privacy-bar" class="fixed">
+<div class="clearfix center">
+เราใช้คุ๊กกี้บนเว็บไซต์ของเรา กรุณาอ่านและยอมรับ <a href="https://minimore.com/help/policy" target="_blank" style="font-weight: bold; color: #333;">นโยบายความเป็นส่วนตัว</a> เพื่อใช้บริการเว็บไซต์
+<button class="btn" onclick="privacyAccept()" style="color: rgb(255, 255, 255); background-color: rgb(97, 162, 41);">ยอมรับ</button>
+<a class="btn" href="https://google.com" style="color: rgb(51, 51, 51); background-color: rgb(222, 223, 224);">ไม่ยอมรับ</a>
+</div>
+</div>
+<div class="wrapper fixedtopbar" id="wrapper">
+<div class="topbar-message fixed">
+<span>
+<a href="/b/PE1Ra">บทความสั้นๆ ได้ใจความ</a> – <a href="/author/undefined">Jack</a>
+</span>
+</div>
+<script type="text/javascript"> 
+    
+    $(document).ready(function(){
+		
+	    MM.callApi("setstat", {chapter_id: 27132}, function(result){});
+	    //createAdsZone();
+	    
+	    $(function () {
+		  $('[data-toggle="tooltip"]').tooltip();
+		});
+
+		//getShareCount($('.sharecounteritem span'),["http:\/\/minimore.com\/permalink\/ch-27132"]);
+		
+		$(".pageitem img").not('.gallery img').not('.endchapter-icon').css('opacity','0.3');
+		$(".pageitem img").unveil(1000, function() {
+			$(this).load(function() {
+				$(this).css('opacity','1');
+			});
+		});
+
+		// $('.adsitem').hide().eq(Math.round(Math.random()*($('.adsitem').length-1))).show();
+		
+		$('.feelinglist a').bind('click',function(){
+			var feelingid = $(this).parents('li').attr('data-id');
+			var data = {chapter_id: 27132, feeling_id: feelingid};
+			
+			MM.callApi("setFeeling", data, function(result){
+				if(!result['error']){
+					$('.feelinglist li').removeClass('active');
+					
+					for(var i=0; i<result['data']['feeling_data'].length; i++){
+						var row = result['data']['feeling_data'][i];
+						var target = $('.feelinglist li[data-id="'+row['feeling_id']+'"]');
+						var newNum = numFormat(row['feeling_count'],1);
+						target.find('em').html(newNum);
+						if(row['isactive']){
+							target.addClass('active');
+						}
+					}
+				}
+				else{
+					if(result['error_log'] == 'not login'){
+						//window.location = '/login?return=' + document.URL + '&subscribe=' + bookid;
+						 createLoginModal();
+					}
+				}
+			});
+		});
+			
+		$('.editorreview-btn').bind('click',function(){
+			var set_pick = ($(this).hasClass('picked')) ? 'false':'true';
+			var data = {chapter_id: 27132, is_pick: set_pick};
+			MM.callApi("setReviewChapter", data, function(result){
+				if(!result['error']){
+					if(result['is_pick']=='true'){
+						$('.editorreview-btn').addClass('picked');
+						$('.editorreview-btn').addClass('red');
+					}
+					else{
+						$('.editorreview-btn').removeClass('picked');
+						$('.editorreview-btn').removeClass('red');
+					}
+				}else{
+					alert('not saved');
+				}
+			});
+		});
+
+		$('.editorpick-btn').bind('click',function(){
+			var set_pick = ($(this).hasClass('picked')) ? 'false':'true';
+			
+			var data = {chapter_id: 27132, is_pick: set_pick};
+			
+			MM.callApi("setRecommendChapter", data, function(result){
+				if(!result['error']){
+					if(result['is_pick']=='true'){
+						$('.editorpick-btn').addClass('picked');
+					}else{
+						$('.editorpick-btn').removeClass('picked');
+					}
+				}
+			});
+		});
+	});
+	
+</script>
+
+<input type="hidden" id="posbigcover" value="" />
+<div class="chaptercover-section default" style="">
+<div class="section-inner">
+</div>
+</div>
+<div class="chapterinfo-section">
+<div class="section-inner">
+<div class="center">
+<span class="title">Ego คือศัตรู</span>
+</div>
+</div>
+</div>
+<div class="pagelist-section stretch-section">
+<div class="section-inner">
+<ul class="pagelist">
+<li class="page">
+<div class="pageitem">
+<p>Ego คือความอยากได้อยากดังโดยที่ไม่ต้องลงมือทำ ความสำเร็จจะทำให้คนอื่นๆ ยกย่องและยอมรับในตัวเรา แต่หลายๆ คนกลับอยากได้มันมาโดยที่ยังทำไม่สำเร็จ</p><p><b><u>ความทะเยอทะยานต่างจาก&nbsp;Ego เพราะมันอยู่บนพื้นฐานของความสำเร็จ<br></u></b></p><p>คนที่มี Ego มักจะคิดว่าตัวเองถูกเสมอ มั่นใจและเอาความคิดตัวเองเป็นใหญ่ ดื้อไม่ฟังใคร หรือฟังแต่ไม่ทำตาม การที่เราจะประสบผลสำเร็จ เราต้องดึงด้านดีของ Ego มาใช้ คือต้องมีทั้งความเชื่อ ความมั่นใจในตัวเอง แต่ก็อย่าสำคัญตัวมากเกินไป</p><h4>ฝึกระงับอารมณ์</h4><p>เราอาจจะไม่ชอบใจเวลาที่หัวหน้าพูดจารุนแรงกับเรา หรือเวลาที่เพื่อนร่วมงานทำให้เราหงุดหงิด แต่การตอบโต้โดยสำคัญตัวเอง ว่าเราควรได้รับการปฏิบัติอย่างยุติธรรมมากกว่านี้ มันไม่ได้ช่วยอะไรให้ดีขึ้นมา พฤติกรรมแบบนั้นมันเกิดจาก&nbsp;Ego การที่เราระงับอารมณ์ได้จะช่วยให้มุ่งมั่นอยู่กับงานและเรียนรู้จากเหตุการณ์ที่เกิดขึ้น</p><h4>มองในระยะยาว</h4><p>ลดความสำคัญของความพึงพอใจหรือความไม่พอใจในระยะสั้น ให้คิดว่าสิ่งที่เกิดขึ้นมันจะทำให้เราเติบโต มันจะช่วยให้เราพัฒนาตนเองได้ในระยะยาว</p><h4>เรียนรู้อยู่เสมอ</h4><p>จงเรียนจากคนที่รู้เยอะกว่าเรา เรียนจากการสอนคนที่รู้น้อยกว่าเรา และเรียนจากการแข่งขันกับคนที่รู้เท่าเทียมเรา หรือจากการทำงานร่วมกัน</p><p><b><u>ถึงแม้ว่าเราจะเก่งแค่ไหน ก็ยังมีคนที่เก่งกว่าเราเสมอ</u></b><br></p><h4></h4><h4>สร้างและรักษามาตรฐาน</h4><p>คนที่จะประสบผลสำเร็จได้เรื่อยๆ จะต้องมุ่งมั่นทำสิ่งที่จำเป็นต้องทำ ทำในเวลาที่เหมาะสม และให้ได้ผลลัพธ์อย่างที่มันควรจะเป็น ต้องทำงานทุกอย่างให้ได้ตามมาตรฐาน หลังจากงานสำเร็จก็ต้องรักษามาตรฐานนั้นไว้หรือปรับปรุงทำให้มันดียิ่งขึ้น อย่ามั่นใจมากเกินไปและอย่ายึดติดอยู่กับความสำเร็จเดิมๆ</p><p></p><h4>ยอมรับความผิดพลาด</h4><p>ความผิดพลาดเป็นเรื่องที่หลีกเลี่ยงไม่ได้ เพราะว่าเราต้องเสี่ยง ปัญหาไม่ได้อยู่ที่ความผิดพลาด แต่เราต้องวิเคราะห์มันและหาทางแก้ไข&nbsp;<strong>เราต้องแยกให้ออกว่าตัวเราไม่ใช่ความผิดพลาดที่เราทำ</strong>&nbsp;แต่ Ego จะทำให้เรามองว่าตัวเราคือความผิดพลาดและจะทำให้เรามองเห็นแค่ความสำเร็จและความล้มเหลว</p><p><b><u>ถึงเราจะทำเต็มที่ทำดีที่สุด แต่มันก็ไม่ได้รับประกันว่าเราจะประสบผลสำเร็จ หาให้เจอว่าทำไม ต่อไปจะได้แก้ไขให้ดีขึ้น</u></b><br></p><h4>เชื่อใจและใช้คนให้เป็น</h4><p>เราต้องหัดเชื่อใจคนอื่น ใช้คนให้เป็น เอางานให้คนอื่นทำ แล้วทุกคนจะได้รับประโยชน์<br></p><h4>สรุป</h4><p>การมี Ego ในระดับที่พอดีเป็นสิ่งจำเป็นสำหรับความสำเร็จ แต่การสำคัญตนมากเกินไปจะไม่ดีต่ออาชีพการงาน เราต้องฝึกระงับและควบคุมอารมณ์ หมั่นช่วยเหลืองานคนอื่นและเรียนรู้อยู่เสมอ</p><p>การถ่อมตัวมันมีแต่ประโยชน์ ไม่มีใครอยู่อย่างโดดเดี่ยว ความสำเร็จที่เกิดขึ้นมันมีส่วนมาจากคนอื่นๆ ด้วย ดังนั้นแทนที่จะเห็นแก่ตัว เชิดชูตัวเอง ก็ให้ลองแชร์ความสำเร็จนั้นกับเพื่อนร่วมงาน</p><h4>อ่านต่อ</h4><p></p><p><a href="http://www.nicetofit.com/ego-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%A8%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B9/" target="_blank">Ego คืออะไร Ego ในระดับที่พอดีเป็นสิ่งจำเป็น แต่การสำคัญตนมากเกินไปก็ไม่ดี</a><br></p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="chapterinfo-section">
+<div class="section-inner">
+
+<div class="clearfix">
+<ul class="entry-meta clearfix">
+<li>
+<i class="icon-tags"></i>
+<span class="desc"><a href="/m/search?tag=ego" target="_blank">#ego</a> </span>
+</li>
+</ul>
+</div>
+<div class="clearfix">
+<div class="col_three_fifth clearfix nobottommargin m-nomargin">
+<ul class="entry-meta clearfix">
+<li>
+<i class="icon-calendar3"></i>
+<time datetime="2017-12-24 00:03:51" data-type="full" data-rel="true"></time>
+</li>
+<li>
+<i class="icon-user"></i> <a href="/author/undefined">Jack</a>
+</li>
+</ul>
+</div>
+<div class="col_two_fifth col_last clearfix nobottommargin m-nomargin">
+<ul class="entry-meta clearfix d-fright">
+<li>
+<i class="icon-exclamation-sign"></i>
+<a class="report-admin-btn" data-login="false">Report</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="chapteraction-section">
+<div class="section-inner">
+
+<div class="adszone bottommargin-sm">
+<script>
+				if($(window).width() <= 480){
+					//document.write('<div class="adsitem mobile"><ins data-revive-zoneid="8" data-revive-id="3fd0aa3da324a95fdd53b78d3394abfb"></ins></div>');
+				} else{
+					if (Math.random() <= 0.2) {
+						document.write('<div class="adsitem desktop"><ins data-revive-zoneid="7" data-revive-id="3fd0aa3da324a95fdd53b78d3394abfb"></ins></div>');
+					} else {
+						document.write('<div class="adsitem desktop"><div id="div-gpt-ad-1548229528268-0"></div></div>');
+						var gptAdSlots = [];
+						googletag.cmd.push(function() {
+						var mapping = googletag.sizeMapping().
+						addSize([728, 300], [[728, 90], [300, 250], [336, 280]]).
+						addSize([340, 290], [[336, 280], [300, 250], [320,100], [320, 50]]).
+						addSize([0, 0], [[300, 250], [320, 100], [320, 50]]).
+						build();
+						gptAdSlots[0] =
+							googletag.defineSlot('/21622890900/TH_minimore.com_res_article_top_728x90//336x280//300x250//320x100//320x50', [[336, 280], [320, 50], [300, 250], [728, 90], [320, 100]], 'div-gpt-ad-1548229528268-0').setCollapseEmptyDiv(true).defineSizeMapping(mapping).setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+							googletag.enableServices();
+							googletag.display('div-gpt-ad-1548229528268-0');
+						});
+					}
+				}			
+			</script>
+</div>
+
+<div class="section-action actionbox clearfix">
+<div class="itemleft">
+<div class="sharecounteritem">
+<span class="reader"><script> document.write(numFormat(62148,1)); </script></span>
+<em>Views</em>
+</div>
+<div class="shareactionitem">
+<a onclick="minFacebookShare()" class="share-btn facebook">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+</span>
+
+</a>
+<a onclick="minTwitterShare('Ego คือศัตรู - บทความสั้นๆ ได้ใจความ')" class="share-btn twitter">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+</span>
+
+</a>
+
+</div>
+</div>
+<div class="itemright">
+<span class="chaptermeta">
+<a href="/b/PE1Ra">บทความสั้นๆ ได้ใจความ</a> – <a href="https://minimore.com/author/undefined">Jack</a>
+</span>
+<a class="chapterlist-btn" href="/b/PE1Ra"><i class="fa fa-list-ul"></i><em>View Story</em></a>
+<a class="subscribe-btn " data-bookid="7788"><em>subscribe</em></a>
+</div>
+</div>
+<div class="section-action navbox clearfix">
+<div class="itemleft">
+<a href="12" class="nav-btn prev-btn">
+
+<i class="fa fa-chevron-left"></i>
+<em>Previous</em>
+</a>
+</div>
+<div class="itemright">
+<a href="14" class="nav-btn next-btn">
+<em>Next</em>
+<i class="fa fa-chevron-right"></i>
+
+</a>
+</div>
+</div>
+<div class="section-action feelingbox clearfix">
+<a class="anchor" name="response"></a>
+<ul class="feelinglist">
+<li data-id="1">
+<a data-toggle="tooltip" data-placement="top" title="ถูกใจ">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/like.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(1,1)); </script></em></span>
+</a>
+</li>
+<li data-id="2">
+<a data-toggle="tooltip" data-placement="top" title="ฮา">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/haha.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(0,1)); </script></em></span>
+</a>
+</li>
+<li data-id="3">
+<a data-toggle="tooltip" data-placement="top" title="ซึ้ง">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/love.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(0,1)); </script></em></span>
+</a>
+</li>
+<li data-id="4">
+<a data-toggle="tooltip" data-placement="top" title="ฟิน">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/fin.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(0,1)); </script></em></span>
+</a>
+</li>
+<li data-id="5">
+<a data-toggle="tooltip" data-placement="top" title="อึ้ง">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/wow.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(1,1)); </script></em></span>
+</a>
+</li>
+<li data-id="6">
+<a data-toggle="tooltip" data-placement="top" title="เอิ่ม">
+<div class="feelingicon">
+<img src="/images/feeling-icon/2016/meh.png" />
+</div>
+<span class="number"><em><script> document.write(numFormat(0,1)); </script></em></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="tabs tabs-alt clearfix topmargin-sm" id="tab-comment">
+<ul class="tab-nav clearfix">
+<li class="active">
+<a href="#comment-tab-mnm">Comments<em>(<script> document.write(numFormat(0,1)); </script>)</em></a>
+</li>
+<li>
+<a href="#comment-tab-fb">Facebook<em>(<span class="fb-comments-count" data-href="http://minimore.com/permalink/ch-27132">0</span>)</em></a>
+</li>
+</ul>
+<div class="tab-container">
+<div class="tab-content clearfix" id="comment-tab-mnm">
+<div class="comment-section clearfix">
+<div class="commentbox withborder clearfix">
+<div class="col-md-12 nogutter center">
+<h4>เข้าสู่ระบบเพื่อแสดงความคิดเห็น</h4>
+<a href="https://minimore.com/login" class="lite-btn"><i class="icon-signin"></i> Log in</a>
+</div>
+</div>
+
+<div class="comment-list">
+</div>
+</div>
+<script>
+					$(document).ready(function(e){
+
+						$('.comment-section').on('click', '.cm-reply-btn', function(e) {
+						    var target = $(this).parents('.cm-group');
+						    var parent_id = $(this).attr("data-comment-id");
+						    var pretext = '';
+						    
+						    if($(this).attr("data-reply-to").length > 0){
+							    pretext = '@' + $(this).attr("data-reply-to") + ' ';
+							}
+						    
+						    var replyform = '\
+						    <div class="commentbox clearfix replyform nobottommargin">\
+						    <div class="col-sm-1 col-xs-2 col-xs-offset-1 nogutter">\
+						    	<div class="entry-avatar">\
+									<img src="" />\
+								</div>\
+							</div>\
+							<div class="col-sm-10 col-xs-9 nogutter">\
+								<div class="form clearfix">\
+									<textarea placeholder="Your Reply" name="comment_content"></textarea>\
+									<input type="hidden" name="chapter_id" value="27132">\
+									<input type="hidden" name="parent_id" value="'+parent_id+'">\
+									<div class="fright clearfix">\
+										<button type="button" onclick="closeReply()" class="cancel-btn">Cancel</button>\
+										<button type="button" class="primary-btn cm-submit-btn">POST</button>\
+									</div>\
+								</div>\
+							</div></div>';
+							
+							closeReply();
+							target.append(replyform);
+						    target.find("textarea").eq(0).focus().val(pretext);
+						});
+						
+						$('.comment-section').on('click', '.cm-delete-btn', function(e) {
+						    var comment_id = $(this).attr("data-comment-id");
+						    var ref = $(this).attr("data-ref");
+						    
+						    promptConfirm('Are you sure you want to delete comment from '+ref+' ?', function(){
+							    var data = {
+						        	call_function : 'deleteComment',
+						            comment_id : comment_id,
+						            chapter_id : 27132
+						        }
+								MM.callApi("comment", data, function(result){
+									if(!result['error']){
+						            	var mdata = result;
+						            	var mtemplate = '{'+'{#minimore_comment}}' + result['template'] + '{'+'{/minimore_comment}}';
+						            	var html = Mustache.render(mtemplate, mdata);
+						            	var htmlObj = $('<div/>').html(html).contents();
+										htmlObj.find('.formattedNum').each(function(index){
+											var num = parseInt($(this).text(),10);
+											var numF = numFormat(num,1);
+											$(this).text(numF);
+										});
+										$('.reply-form').hide();
+										$('.reply-form-place').append($('.reply-form'));
+							            $('div.comment-list').html(htmlObj);
+							            //setTimeAgo();
+							        }
+							        else{
+								        
+							        }
+								});
+							    
+						    });
+						});
+
+						$(".cm-submit-btn").live("click",function(e){
+							e.preventDefault();
+							e.stopPropagation();
+							el = $(this);
+							form = $(this).parents('div.form');
+							textarea = form.find("textarea");
+							parent_id = form.find('input[name="parent_id"]');
+							data = {
+								call_function:'createComment',
+								chapter_id : 27132,
+								comment_detail:textarea.val(),
+								parent_comment_id:parent_id.val()
+							};
+							MM.callApi("comment", data, function(result){
+								if(!result['error']){
+					            	var mdata = result;
+					            	var mtemplate = '{'+'{#minimore_comment}}' + result['template'] + '{'+'{/minimore_comment}}';
+					            	var html = Mustache.render(mtemplate, mdata);
+					            	var htmlObj = $('<div/>').html(html).contents();
+									htmlObj.find('.formattedNum').each(function(index){
+										var num = parseInt($(this).text(),10);
+										var numF = numFormat(num,1);
+										$(this).text(numF);
+									});
+									if(result.clearTextarea){
+										$('textarea[name="comment_content"]').val('');
+									}
+									$('.reply-form').hide();
+									$('.reply-form-place').append($('.reply-form'));
+						            $('div.comment-list').html(htmlObj);
+						            //setTimeAgo();
+								}else{
+								}
+							});
+						});
+
+					});
+
+					function closeReply(){
+						$('.replyform').hide().remove();
+					}
+
+					</script> </div>
+<div class="tab-content clearfix" id="comment-tab-fb">
+<div class="fb-comments" data-width="100%" data-href="http://minimore.com/permalink/ch-27132" data-numposts="5" data-colorscheme="light"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a href="#" class="fixedbtnitem right gototop-btn"><i class="fa fa-arrow-up"></i></a>
+<img src="//minimore.com/apis/setstatimage.api.php?chapter_id=27132&r=6315accc1fe63" style="display:none" />
+<script type="text/javascript">
+
+	$(document).ready(function(){
+
+		checkRequiredOption($('input[name=opt-walletpackage]'),$('#package-confbtn'));
+		checkRequiredOption($('input[name=opt-walletpayment]'),$('#payment-confbtn'));
+
+		$('.chapteraction-btn').bind('click',function(){
+			resetOptionList();
+
+			var wallet_amount = null;
+
+			if(wallet_amount == null || $(this).attr('data-action')=='login'){
+				window.location.href = '/login?return='+window.location.href;
+			}
+			else{
+				if($(this).attr('data-action')=='buy'){
+					//TODO: check wallet remaining
+					//var wallet_amount = null;
+					var chapter_price = $(this).attr('data-price');
+					if(wallet_amount > 0 && wallet_amount > chapter_price) {
+						walletBuyChapter($(this).attr('data-name'),$(this).attr('data-price'),$(this).attr('data-id'));
+					}else{
+						openModal('#modalWalletPromptTopup');
+					}
+				}else if($(this).attr('data-action')=='topup'){
+					openModal('#modalWalletPromptTopup');
+				}else if($(this).attr('data-action')=='read'){
+					window.location.href = $(this).siblings('.chapterread-btn').attr('href');
+				}
+			}
+		});
+
+		$('.closemodal-btn').bind('click',function(){
+			var shownModal = $('.modal.in');
+			if(shownModal.length != 0){
+				shownModal.modal('hide');
+			}
+			if($(this).attr('data-redirect')!=null){
+				window.location.href = $(this).attr('data-redirect');
+			}
+			else if($(this).attr('data-reload')=='true'){
+				window.location.reload();
+			}
+			else{
+
+			}
+		});
+
+		$('.topup-btn').bind('click',function(){
+			resetOptionList();
+			openModal('#modalWalletPackage');
+		});
+
+		$('.loadmodal-btn').bind('click',function(){
+			var target = $(this).attr('data-load');
+			openModal(target);
+		});
+
+		$('.wallet-buy-btn').bind('click',function(){
+			walletLoading();
+			var data = {
+				chapter_id: $(this).attr('data-chapter-id')
+			};
+			console.log(data);
+			MM.callApi('prepBuyChapterData', data, function(d){
+				//var result = JSON.parse(JSON.stringify(data));
+				if(d.error == false){
+					 console.log(d.detail);
+					 walletAlert('ซื้อเหรียญเรียบร้อย',true);
+					 setTimeout(location.reload(), 1000);
+				}else{
+					console.log(d.detail);
+					walletAlert('เหมือนจะมีปัญหา สั่งซื้อไม่ได้ :’> ติดต่อมินิมอร์ได้ที่ support@minimore.com หรือโทร. 0-2641-9955 ต่อ 516');
+				}
+			});
+		});
+
+		$('.wallet-topup-btn').bind('click',function(){
+			walletLoading();
+			var amount = $('#package-optionform').find('input[name=opt-walletpackage]:checked').val();
+			var method = $('#payment-optionform').find('input[name=opt-walletpayment]:checked').val();
+			//console.log(amount);
+			//console.log(method);
+			var data = {
+				amount:amount,
+				payment_method:method,
+				redirect_url:window.location.href
+			};
+			MM.callApi('prepTopupWalletData', data, function(d){
+				//var result = JSON.parse(JSON.stringify(data));
+				if(d.error == false){
+					 window.location.href = d.payment_url;
+				}else{
+					console.log(d.detail);
+					walletAlert('เหมือนจะมีปัญหา สั่งซื้อไม่ได้ :’> ติดต่อมินิมอร์ได้ที่ support@minimore.com หรือโทร. 0-2641-9955 ต่อ 516');
+				}
+			});
+		});
+
+	});
+
+	function openModal(id,title){
+		//console.log('called openModal '+ id);
+		var shownModal = $('.modal.in');
+		if(shownModal.length == 0){
+			if(title !=null){
+				$(id).find('.modal-title').html(title);
+			}
+			$(id).modal({
+				keyboard:false,
+				backdrop:'static',
+			}).modal('handleUpdate').modal('show');
+		}
+		else{
+			shownModal.one('hidden.bs.modal', function(){
+				//console.log(shownModal.attr('id') + ' is hidden');
+				if(title !=null){
+					$(id).find('.modal-title').html(title);
+				}
+				$(id).modal({
+					keyboard:false,
+					backdrop:'static',
+				}).modal('handleUpdate').modal('show');
+			});
+			shownModal.modal('hide');
+		}
+	}
+
+	function walletBuyChapter(name,price,cid){
+		$('#modalWalletPromptBuy').find('.wallet-buy-btn').attr('data-chapter-id',cid);
+		openModal('#modalWalletPromptBuy',name+'<br/>ยืนยันการซื้อ <i class="mmcoin"></i>'+price+' ?');
+	}
+
+	function walletLoading(){
+		openModal('#modalWalletLoading');
+	}
+
+	function walletAlert(msg,success,redirect){
+		if(success!=null && success==true){
+			msg = '<i class="fa fa-check-circle bigicon" style="color:#0ebd17"></i><br/>'+msg;
+		}
+
+		if(redirect!=null){
+			$('#modalWalletAlert').find('.closemodal-btn').attr('data-redirect',redirect);
+		}
+		else{
+			$('#modalWalletAlert').find('.closemodal-btn').removeAttr('data-redirect');
+		}
+
+		openModal('#modalWalletAlert',msg);
+	}
+
+	function checkRequiredOption(option, button){
+		function checkOption(){
+			if(option.is(':checked')){
+				button.removeClass('disabled-btn');
+				button.removeAttr('disabled');
+			}
+			else{
+				button.addClass('disabled-btn');
+				button.attr('disabled','disabled');
+			}
+		}
+
+		//init
+		checkOption();
+
+		option.bind('change',function(){
+			checkOption();
+		});
+	}
+
+	function resetOptionList(){
+		$('.modaloptionlist').find('input[type=radio]').removeAttr('checked');
+		checkRequiredOption($('input[name=opt-walletpackage]'),$('#package-confbtn'));
+		checkRequiredOption($('input[name=opt-walletpayment]'),$('#payment-confbtn'));
+	}
+
+</script>
+<div class="modal modal-wallet custom-modal" id="modalWalletPromptBuy" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-body">
+<h4 class="modal-title">ยืนยันการซื้อ ?</h4>
+<span class="subtitle important">เหรียญที่มีตอนนี้: null</span>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-confirm wallet-buy-btn" data-chapter-id="27132">Buy</button>
+<button type="button" class="btn btn-cancel closemodal-btn">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-wallet custom-modal" id="modalWalletPromptTopup" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-body">
+<h4 class="modal-title">มีเหรียญไม่พอซื้อแล้ว เติมเหรียญกันหน่อย</h4>
+<span class="subtitle important">เหรียญที่มีตอนนี้ : null</span>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-confirm loadmodal-btn" data-load="#modalWalletPackage">OK</button>
+<button type="button" class="btn btn-cancel closemodal-btn">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-wallet custom-modal" id="modalWalletLoading" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-body">
+<h4 class="modal-title"><i class="fa fa-refresh fa-spin bigicon"></i><br />Please Wait ...</h4>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-wallet custom-modal" id="modalWalletAlert" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-body">
+<h4 class="modal-title">ซื้อเหรียญเรียบร้อย</h4>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-confirm closemodal-btn" data-reload="false">OK</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-wallet custom-modal" id="modalWalletPackage" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">เลือกแพ็คเกจเติมเหรียญ</h4>
+</div>
+<div class="modal-body np">
+<ul class="modaloptionlist" id="package-optionform">
+</ul>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-confirm loadmodal-btn" data-load="#modalWalletPayment" id="package-confbtn">OK</button>
+<button type="button" class="btn btn-cancel closemodal-btn">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal-wallet custom-modal" id="modalWalletPayment" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">เลือกวิธีการชำระเงิน</h4>
+</div>
+<div class="modal-body np">
+<ul class="modaloptionlist" id="payment-optionform">
+<li class="clearfix">
+<input type="radio" name="opt-walletpayment" value="1" id="opt-walletpayment-1">
+<label for="opt-walletpayment-1">
+<span class="info">Credit Card</span>
+<span class="metaimg fright">
+
+</span>
+</label>
+</li>
+<li class="clearfix">
+<input type="radio" name="opt-walletpayment" value="2" id="opt-walletpayment-2">
+<label for="opt-walletpayment-2">
+<span class="info">Cash @Counter</span>
+<span class="metaimg fright">
+
+</span>
+</label>
+</li>
+<li class="clearfix">
+<input type="radio" name="opt-walletpayment" value="3" id="opt-walletpayment-3">
+<label for="opt-walletpayment-3">
+<span class="info">Line Pay</span>
+</label>
+</li>
+</ul>
+<span class="subtitle important note">ระบบจะนำคุณไปสู่หน้าจ่ายเงินของผู้ให้บริการ</span>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-confirm wallet-topup-btn" id="payment-confbtn">Buy</button>
+<button type="button" class="btn btn-cancel loadmodal-btn" data-load="#modalWalletPackage">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer" class="dark">
+<div id="copyrights">
+<div class="container clearfix">
+<div class="col_half nobottommargin">
+<div class="copyright-links">
+<a href="/makers"><b>Makers</b></a> /
+<a href="/originals">Originals</a> /
+<a href="https://store.minimore.com"><b>Store</b></a> /
+<a href="/digital">Sample</a> /
+<a href="/help/redeem">Redeem</a> /
+<a href="/help">About</a> /
+<a href="/help/contact">Contact</a> /
+<a href="/jobs">Jobs</a> /
+</div>
+<span class="cr">
+Copyrights &copy; 2015 All Rights Reserved by Minimore<br />
+ภาพและเนื้อหาในเว็บไซต์นี้เป็นงานมีลิขสิทธิ์ ห้ามทำซ้ำหรือดัดแปลง
+</span>
+</div>
+<div class="col_half col_last tright nobottommargin">
+<div class="fright clearfix">
+<a href="https://www.facebook.com/minimoreweb" class="social-icon si-small si-borderless si-facebook">
+<i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a>
+<a href="https://www.twitter.com/minimoreweb" class="social-icon si-small si-borderless si-twitter">
+<i class="icon-twitter"></i>
+<i class="icon-twitter"></i>
+</a>
+<a href="https://www.instagram.com/minimoreweb" class="social-icon si-small si-borderless si-instagram">
+<i class="icon-instagram"></i>
+<i class="icon-instagram"></i>
+</a>
+</div>
+<div class="clear"></div>
+<i class="icon-envelope-alt"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="03707673736c7177436e6a6d6a6e6c71662d606c6e">[email&#160;protected]</a>
+<span class="middot">&middot;</span>
+<i class="icon-phone3"></i> 02-641-9955<br>
+<a href="/help/policy">นโยบายความเป็นส่วนตัว</a> <br><br><br><br><br><br>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/javascripts/canvas/functions.js?5"></script>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script',' https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44891769-1', 'minimore.com');
+	ga('send', 'pageview');
+	</script>
+</body>
+</html>
